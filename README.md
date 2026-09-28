@@ -1,6 +1,6 @@
 # Relógio Digital em C
 
-Projeto desenvolvido em C que simula um relógio digital no terminal, utilizando a hora informada pelo usuário como ponto inicial.
+Projeto desenvolvido em C que simula um relógio digital no terminal, utilizando um horário informado pelo usuário como ponto inicial.
 
 ## Funcionalidades
 
@@ -15,7 +15,11 @@ Projeto desenvolvido em C que simula um relógio digital no terminal, utilizando
 
 Compile o arquivo `relogio_digital.c` utilizando um compilador C.
 
-Exemplo:
+Exemplo: `gcc relogio_digital.c -o relogio_digital`
 
-```bash
-gcc relogio_digital.c -o relogio_digital
+Depois execute o programa pelo terminal.
+
+## Tecnologias
+
+- C
+- GCC
